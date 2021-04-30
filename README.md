@@ -32,4 +32,7 @@ The following pieces of software will be installed
    - For windows: `cp` changes the path and `dir` lists what is in the current directory
        -  A tutorial is available here <https://www.computerhope.com/issues/chusedos.htm>
    - For mac and linux: `cd` changes the directory and `ls` lists what is in the current directory
-
+       -  A tutorial is available here <https://help.ubuntu.com/community/UsingTheTerminal>
+ - Once you have navigated to the directory enter the command `jupyter notebook` 
+ - The landing page for jupyter notebooks should open as a new tab in your default browser
+ - Open the `cantera_example.ipynb` file 
