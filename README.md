@@ -5,6 +5,8 @@ The following pieces of software will be installed
  - Cantera: a python package for combustion computation
  - Plotly: a graphing package for python
  - Tabulate: a python package for printing data nicely
+
+It is anticipated that the following steps will take between 30 min and 1 hour depending on internet speed and familiarity with using the terminal. The download is ~450MB 
  
  ### Installation steps
  Note: All of the software in this tutorial is free. You do not need to purchase anything or enter any personal information to download and install this software.
