@@ -31,7 +31,7 @@ It is anticipated that the following steps will take between 30 min and 1 hour d
  - Download the zip file of the code
  - Extract the code to the folder of your choice
  - Open the anaconda prompt and navigate to the folder where the code was extracted
-   - For windows: `cp` changes the path and `dir` lists what is in the current directory
+   - For windows: `cd` changes the path and `dir` lists what is in the current directory
        -  A tutorial is available here <https://www.computerhope.com/issues/chusedos.htm>
    - For mac and linux: `cd` changes the directory and `ls` lists what is in the current directory
        -  A tutorial is available here <https://help.ubuntu.com/community/UsingTheTerminal>
